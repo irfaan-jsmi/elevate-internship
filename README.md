@@ -1,4 +1,4 @@
-# Netflix Movies and TV Shows – Data Cleaning & Preprocessing
+# Task-1 :- Netflix Movies and TV Shows – Data Cleaning & Preprocessing
 
 ## 📌 Project Overview
 This project focuses on the initial phase of the data analysis pipeline: **Data Cleaning and Preprocessing**. Using a raw dataset of Netflix movies and TV shows, the objective was to identify potential inconsistencies, handle formatting discrepancies, and ensure data integrity to prepare the dataset for seamless future analysis or machine learning modeling.
@@ -27,8 +27,3 @@ A structured preprocessing workflow was executed to clean the raw dataset. Below
 
 ---
 
-## 📂 Repository Structure
-```text
-├── netflix1_cleaned.csv     # The finalized, cleaned dataset ready for analysis
-├── data_cleaning.py        # Python script containing the Pandas processing code
-└── README.md                # Project documentation and summary

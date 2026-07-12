@@ -27,3 +27,127 @@ A structured preprocessing workflow was executed to clean the raw dataset. Below
 
 ---
 
+#TASK 2
+# 📊 Superstore Sales Dashboard
+
+## 📌 Project Overview
+
+This project presents an interactive **Sales Dashboard** built using **Microsoft Power BI**. The dashboard analyzes the Sample Superstore dataset to provide valuable business insights through data visualization and storytelling.
+
+The goal of this project is to help business stakeholders understand sales performance, profitability, customer segments, and regional trends using an easy-to-understand dashboard.
+
+---
+
+## 🎯 Objectives
+
+- Analyze sales and profit performance.
+- Identify the best-performing product categories.
+- Understand regional sales distribution.
+- Compare customer segments.
+- Present business insights through interactive visualizations.
+
+---
+
+## 🛠️ Tools Used
+
+- Microsoft Power BI
+- Sample Superstore Dataset (CSV)
+
+---
+
+## 📂 Dataset
+
+- **Dataset Name:** Sample Superstore
+- **File Type:** CSV
+- **Source:** Sample Superstore Dataset
+
+---
+
+## 📈 Dashboard Features
+
+### KPI Cards
+- Total Sales
+- Total Profit
+- Total Quantity
+- Total Orders
+
+### Visualizations
+- Sales by Category
+- Profit by Sub-Category
+- Monthly Sales Trend
+- Sales by Region
+- Sales by Segment
+- Profit by State (Map)
+
+---
+
+## 📊 Key Business Insights
+
+- Technology generated the highest sales among all product categories.
+- Copiers were the most profitable sub-category.
+- The West region contributed the highest overall sales.
+- Consumer customers accounted for the largest share of sales.
+- Overall, the business demonstrated strong sales performance and positive profitability.
+
+---
+
+## 📷 Dashboard Preview
+
+> *(Add a screenshot of your Power BI dashboard here after uploading to GitHub.)*
+
+Example:
+
+```
+images/dashboard.png
+```
+
+---
+
+## 📁 Project Structure
+
+```
+Superstore-Sales-Dashboard/
+│
+├── Sample - Superstore.csv
+├── Superstore Sales Dashboard.pbix
+├── Dashboard Screenshot.png
+└── README.md
+```
+
+---
+
+## 🚀 How to Use
+
+1. Download the repository.
+2. Open the `.pbix` file using Microsoft Power BI Desktop.
+3. Refresh the dataset if required.
+4. Explore the dashboard and interact with the visuals.
+
+---
+
+## 📌 Skills Demonstrated
+
+- Data Visualization
+- Dashboard Design
+- Business Storytelling
+- KPI Reporting
+- Data Analysis
+- Power BI
+- Business Intelligence
+
+---
+
+## 👨‍💻 Author
+
+**Irfaan Basha**
+
+B.Tech – Artificial Intelligence & Data Science
+
+Dhanalakshmi College of Engineering
+
+---
+
+## ⭐ Project Outcome
+
+This dashboard transforms raw sales data into meaningful business insights using interactive charts, KPI cards, and visual storytelling, enabling better business decision-making.
+

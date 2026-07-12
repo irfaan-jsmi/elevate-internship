@@ -27,8 +27,8 @@ A structured preprocessing workflow was executed to clean the raw dataset. Below
 
 ---
 
-#TASK 2
-# 📊 Superstore Sales Dashboard
+
+# Task 2 :- 📊 Superstore Sales Dashboard
 
 ## 📌 Project Overview
 
@@ -90,64 +90,4 @@ The goal of this project is to help business stakeholders understand sales perfo
 - Overall, the business demonstrated strong sales performance and positive profitability.
 
 ---
-
-## 📷 Dashboard Preview
-
-> *(Add a screenshot of your Power BI dashboard here after uploading to GitHub.)*
-
-Example:
-
-```
-images/dashboard.png
-```
-
----
-
-## 📁 Project Structure
-
-```
-Superstore-Sales-Dashboard/
-│
-├── Sample - Superstore.csv
-├── Superstore Sales Dashboard.pbix
-├── Dashboard Screenshot.png
-└── README.md
-```
-
----
-
-## 🚀 How to Use
-
-1. Download the repository.
-2. Open the `.pbix` file using Microsoft Power BI Desktop.
-3. Refresh the dataset if required.
-4. Explore the dashboard and interact with the visuals.
-
----
-
-## 📌 Skills Demonstrated
-
-- Data Visualization
-- Dashboard Design
-- Business Storytelling
-- KPI Reporting
-- Data Analysis
-- Power BI
-- Business Intelligence
-
----
-
-## 👨‍💻 Author
-
-**Irfaan Basha**
-
-B.Tech – Artificial Intelligence & Data Science
-
-Dhanalakshmi College of Engineering
-
----
-
-## ⭐ Project Outcome
-
-This dashboard transforms raw sales data into meaningful business insights using interactive charts, KPI cards, and visual storytelling, enabling better business decision-making.
 

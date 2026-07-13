@@ -90,4 +90,60 @@ The goal of this project is to help business stakeholders understand sales perfo
 - Overall, the business demonstrated strong sales performance and positive profitability.
 
 ---
+# Task 3:- SQL for Data Analysis
 
+## Objective
+Analyze an e-commerce sales dataset using SQL and extract useful business insights.
+
+## Tools Used
+- SQLite
+- DB Browser for SQLite
+- VS Code
+
+## Dataset
+- ecommerce_sales_data.csv
+
+## SQL Concepts Used
+- SELECT
+- WHERE
+- GROUP BY
+- ORDER BY
+- LIMIT
+- SUM()
+- AVG()
+- COUNT()
+
+## Files
+- ecommerce.db
+- ecommerce_sales_data.csv
+- task3.sql
+
+## Outcome
+Performed SQL queries to analyze sales, profit, categories, regions, and top-selling products using SQLite.
+
+---
+# Task 4:- Sales Call Performance Dashboard
+
+## 📌 Overview
+An interactive Power BI dashboard developed to analyze sales call performance using the Product Sales dataset.
+
+## 🛠️ Tools Used
+- Microsoft Power BI
+- DAX
+- CSV Dataset
+
+## 📈 Dashboard Includes
+- Total Calls
+- Products Sold
+- Average Call Duration
+- Conversion Rate
+- Calls by Agent
+- Products Sold by Agent
+- Call Pickup Status
+- Interactive Slicers
+
+## 📊 Key Insights
+- Total Calls: **10K**
+- Products Sold: **2K**
+- Average Call Duration: **125.16 sec**
+- Conversion Rate: **21.02%**

@@ -149,7 +149,7 @@ An interactive Power BI dashboard developed to analyze sales call performance us
 - Conversion Rate: **21.02%**# Titanic Dataset Exploratory Data Analysis
 ----
 
-# Task 6:- Titanic Dataset Exploratory Data Analysis
+# Task 5:- Titanic Dataset Exploratory Data Analysis
 
 ## Objective
 To analyze the Titanic passenger dataset, clean the data, explore important patterns, and identify factors linked to survival.

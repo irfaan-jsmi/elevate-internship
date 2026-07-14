@@ -185,3 +185,77 @@ The dataset contains Titanic passenger records with columns such as PassengerId,
 
 ## Conclusion
 The Titanic dataset shows clear survival disparities based on gender and passenger class. Fare and class are closely connected, and both reflect access and social status. These patterns make the dataset a strong case study for exploratory data analysis and survival analysis.
+
+---
+
+# Task 6 - Sales Trend Analysis Using Aggregations
+
+## Objective
+Analyze monthly revenue and order volume using SQL aggregation functions.
+
+## Tools Used
+- DB Browser for SQLite
+- SQLite
+
+## Dataset
+- Sample - Superstore Dataset
+
+## SQL Concepts Used
+- SUM()
+- COUNT(DISTINCT)
+- GROUP BY
+- ORDER BY
+- CAST()
+- substr()
+- instr()
+- ROUND()
+
+## Columns Used
+- Order ID
+- Order Date
+- Product ID
+- Sales
+
+## SQL Query
+```sql
+SELECT
+    CAST(substr("Order Date", 7, 4) AS INTEGER) AS Year,
+    CAST(substr("Order Date", 1, instr("Order Date", '/') - 1) AS INTEGER) AS Month,
+    ROUND(SUM(Sales), 2) AS Total_Revenue,
+    COUNT(DISTINCT "Order ID") AS Order_Volume
+FROM "Sample - Superstore"
+GROUP BY
+    CAST(substr("Order Date", 7, 4) AS INTEGER),
+    CAST(substr("Order Date", 1, instr("Order Date", '/') - 1) AS INTEGER)
+ORDER BY
+    Year,
+    Month;
+```
+
+## Output
+The query generates a monthly sales report containing:
+- Year
+- Month
+- Total Revenue
+- Order Volume
+
+## Project Structure
+```
+Task6_Sales_Trend_Analysis/
+│── task6.db
+│── Sample - Superstore.csv
+│── sales_trend_analysis.sql
+│── results.png
+└── README.md
+```
+
+## Learning Outcome
+- Learned to use SQL aggregate functions for data analysis.
+- Grouped data by month and year.
+- Calculated monthly revenue using `SUM()`.
+- Counted unique orders using `COUNT(DISTINCT)`.
+- Sorted results chronologically with `ORDER BY`.
+- Performed sales trend analysis using SQLite.
+
+## Author
+**Irfaan Basha**

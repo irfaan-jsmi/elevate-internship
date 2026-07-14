@@ -147,9 +147,9 @@ An interactive Power BI dashboard developed to analyze sales call performance us
 - Products Sold: **2K**
 - Average Call Duration: **125.16 sec**
 - Conversion Rate: **21.02%**# Titanic Dataset Exploratory Data Analysis
+----
 
-## Project Title
-Titanic Dataset Exploratory Data Analysis
+# Task 6:- Titanic Dataset Exploratory Data Analysis
 
 ## Objective
 To analyze the Titanic passenger dataset, clean the data, explore important patterns, and identify factors linked to survival.

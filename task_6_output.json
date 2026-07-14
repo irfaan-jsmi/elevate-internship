@@ -1,0 +1,362 @@
+[
+    {
+        "Month": 1,
+        "Order_Volume": 32,
+        "Total_Revenue": 14236.9,
+        "Year": 14
+    },
+    {
+        "Month": 2,
+        "Order_Volume": 28,
+        "Total_Revenue": 4519.89,
+        "Year": 14
+    },
+    {
+        "Month": 3,
+        "Order_Volume": 71,
+        "Total_Revenue": 55691.01,
+        "Year": 14
+    },
+    {
+        "Month": 4,
+        "Order_Volume": 66,
+        "Total_Revenue": 28295.35,
+        "Year": 14
+    },
+    {
+        "Month": 5,
+        "Order_Volume": 69,
+        "Total_Revenue": 23648.29,
+        "Year": 14
+    },
+    {
+        "Month": 6,
+        "Order_Volume": 66,
+        "Total_Revenue": 34595.13,
+        "Year": 14
+    },
+    {
+        "Month": 7,
+        "Order_Volume": 65,
+        "Total_Revenue": 33946.39,
+        "Year": 14
+    },
+    {
+        "Month": 8,
+        "Order_Volume": 72,
+        "Total_Revenue": 27909.47,
+        "Year": 14
+    },
+    {
+        "Month": 9,
+        "Order_Volume": 130,
+        "Total_Revenue": 81777.35,
+        "Year": 14
+    },
+    {
+        "Month": 10,
+        "Order_Volume": 22,
+        "Total_Revenue": 3515.01,
+        "Year": 14
+    },
+    {
+        "Month": 11,
+        "Order_Volume": 43,
+        "Total_Revenue": 21431.42,
+        "Year": 14
+    },
+    {
+        "Month": 12,
+        "Order_Volume": 40,
+        "Total_Revenue": 16132.85,
+        "Year": 14
+    },
+    {
+        "Month": 1,
+        "Order_Volume": 29,
+        "Total_Revenue": 18174.08,
+        "Year": 15
+    },
+    {
+        "Month": 2,
+        "Order_Volume": 36,
+        "Total_Revenue": 11951.41,
+        "Year": 15
+    },
+    {
+        "Month": 3,
+        "Order_Volume": 79,
+        "Total_Revenue": 38726.25,
+        "Year": 15
+    },
+    {
+        "Month": 4,
+        "Order_Volume": 72,
+        "Total_Revenue": 34195.21,
+        "Year": 15
+    },
+    {
+        "Month": 5,
+        "Order_Volume": 74,
+        "Total_Revenue": 30131.69,
+        "Year": 15
+    },
+    {
+        "Month": 6,
+        "Order_Volume": 68,
+        "Total_Revenue": 24797.29,
+        "Year": 15
+    },
+    {
+        "Month": 7,
+        "Order_Volume": 66,
+        "Total_Revenue": 28765.33,
+        "Year": 15
+    },
+    {
+        "Month": 8,
+        "Order_Volume": 68,
+        "Total_Revenue": 36898.33,
+        "Year": 15
+    },
+    {
+        "Month": 9,
+        "Order_Volume": 140,
+        "Total_Revenue": 64595.92,
+        "Year": 15
+    },
+    {
+        "Month": 10,
+        "Order_Volume": 32,
+        "Total_Revenue": 6415.23,
+        "Year": 15
+    },
+    {
+        "Month": 11,
+        "Order_Volume": 49,
+        "Total_Revenue": 32172.22,
+        "Year": 15
+    },
+    {
+        "Month": 12,
+        "Order_Volume": 51,
+        "Total_Revenue": 25292.92,
+        "Year": 15
+    },
+    {
+        "Month": 1,
+        "Order_Volume": 48,
+        "Total_Revenue": 18542.49,
+        "Year": 16
+    },
+    {
+        "Month": 2,
+        "Order_Volume": 45,
+        "Total_Revenue": 22978.82,
+        "Year": 16
+    },
+    {
+        "Month": 3,
+        "Order_Volume": 86,
+        "Total_Revenue": 51715.88,
+        "Year": 16
+    },
+    {
+        "Month": 4,
+        "Order_Volume": 89,
+        "Total_Revenue": 38750.04,
+        "Year": 16
+    },
+    {
+        "Month": 5,
+        "Order_Volume": 108,
+        "Total_Revenue": 56987.73,
+        "Year": 16
+    },
+    {
+        "Month": 6,
+        "Order_Volume": 97,
+        "Total_Revenue": 40344.53,
+        "Year": 16
+    },
+    {
+        "Month": 7,
+        "Order_Volume": 96,
+        "Total_Revenue": 39261.96,
+        "Year": 16
+    },
+    {
+        "Month": 8,
+        "Order_Volume": 90,
+        "Total_Revenue": 31115.37,
+        "Year": 16
+    },
+    {
+        "Month": 9,
+        "Order_Volume": 192,
+        "Total_Revenue": 73410.02,
+        "Year": 16
+    },
+    {
+        "Month": 10,
+        "Order_Volume": 30,
+        "Total_Revenue": 29740.43,
+        "Year": 16
+    },
+    {
+        "Month": 11,
+        "Order_Volume": 46,
+        "Total_Revenue": 18469.48,
+        "Year": 16
+    },
+    {
+        "Month": 12,
+        "Order_Volume": 60,
+        "Total_Revenue": 33974.03,
+        "Year": 16
+    },
+    {
+        "Month": 1,
+        "Order_Volume": 69,
+        "Total_Revenue": 43971.37,
+        "Year": 17
+    },
+    {
+        "Month": 2,
+        "Order_Volume": 53,
+        "Total_Revenue": 20301.13,
+        "Year": 17
+    },
+    {
+        "Month": 3,
+        "Order_Volume": 118,
+        "Total_Revenue": 58872.35,
+        "Year": 17
+    },
+    {
+        "Month": 4,
+        "Order_Volume": 116,
+        "Total_Revenue": 36521.54,
+        "Year": 17
+    },
+    {
+        "Month": 5,
+        "Order_Volume": 118,
+        "Total_Revenue": 44261.11,
+        "Year": 17
+    },
+    {
+        "Month": 6,
+        "Order_Volume": 133,
+        "Total_Revenue": 52981.73,
+        "Year": 17
+    },
+    {
+        "Month": 7,
+        "Order_Volume": 111,
+        "Total_Revenue": 45264.42,
+        "Year": 17
+    },
+    {
+        "Month": 8,
+        "Order_Volume": 111,
+        "Total_Revenue": 63120.89,
+        "Year": 17
+    },
+    {
+        "Month": 9,
+        "Order_Volume": 226,
+        "Total_Revenue": 87866.65,
+        "Year": 17
+    },
+    {
+        "Month": 10,
+        "Order_Volume": 48,
+        "Total_Revenue": 23959.37,
+        "Year": 17
+    },
+    {
+        "Month": 11,
+        "Order_Volume": 75,
+        "Total_Revenue": 38613.63,
+        "Year": 17
+    },
+    {
+        "Month": 12,
+        "Order_Volume": 88,
+        "Total_Revenue": 36819.6,
+        "Year": 17
+    },
+    {
+        "Month": 10,
+        "Order_Volume": 56,
+        "Total_Revenue": 27938.39,
+        "Year": 2014
+    },
+    {
+        "Month": 11,
+        "Order_Volume": 108,
+        "Total_Revenue": 57197.3,
+        "Year": 2014
+    },
+    {
+        "Month": 12,
+        "Order_Volume": 101,
+        "Total_Revenue": 53412.77,
+        "Year": 2014
+    },
+    {
+        "Month": 10,
+        "Order_Volume": 55,
+        "Total_Revenue": 24989.7,
+        "Year": 2015
+    },
+    {
+        "Month": 11,
+        "Order_Volume": 109,
+        "Total_Revenue": 43800.34,
+        "Year": 2015
+    },
+    {
+        "Month": 12,
+        "Order_Volume": 110,
+        "Total_Revenue": 49626.6,
+        "Year": 2015
+    },
+    {
+        "Month": 10,
+        "Order_Volume": 75,
+        "Total_Revenue": 29947.31,
+        "Year": 2016
+    },
+    {
+        "Month": 11,
+        "Order_Volume": 137,
+        "Total_Revenue": 60942.49,
+        "Year": 2016
+    },
+    {
+        "Month": 12,
+        "Order_Volume": 116,
+        "Total_Revenue": 63025.01,
+        "Year": 2016
+    },
+    {
+        "Month": 10,
+        "Order_Volume": 99,
+        "Total_Revenue": 53817.55,
+        "Year": 2017
+    },
+    {
+        "Month": 11,
+        "Order_Volume": 186,
+        "Total_Revenue": 79834.19,
+        "Year": 2017
+    },
+    {
+        "Month": 12,
+        "Order_Volume": 136,
+        "Total_Revenue": 47009.72,
+        "Year": 2017
+    }
+]
